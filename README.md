@@ -25,5 +25,4 @@ For the client, run:
     python pub_chain_client.py
 
 ## Explanation video
-
-None (yet ;])
+[Link here](https://drive.google.com/drive/folders/1PzQLv-yiO8-11vEjTXlBKPl3T-MBJuzK?usp=sharing)
